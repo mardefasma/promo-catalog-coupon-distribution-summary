@@ -39,35 +39,35 @@ var (
 		// 25 Mar
 		"KK25MARAA": {
 			Benefit:    "CB 100% up tp 50k",
-			LimitPerTW: 1000,
+			LimitPerTW: 1200,
 		},
 		"KK25MARAB": {
 			Benefit:    "CB 50% up tp 100k",
-			LimitPerTW: 1000,
+			LimitPerTW: 1800,
 		},
 		"KK25MARAC": {
 			Benefit:    "CB 20% up tp 200k",
-			LimitPerTW: 1000,
+			LimitPerTW: 6000,
 		},
 		"KK25MARAD": {
 			Benefit:    "CB 10% up tp 500k",
-			LimitPerTW: 1000,
+			LimitPerTW: 9600,
 		},
 		"KK25MARAE": {
 			Benefit:    "CB 5% up tp 1jt",
-			LimitPerTW: 1000,
+			LimitPerTW: 1500,
 		},
 		"KK25MARAF": {
 			Benefit:    "CB 3% up tp 5jt",
-			LimitPerTW: 1000,
+			LimitPerTW: 1500,
 		},
 		"BLJD11HGN": {
 			Benefit:    "Diskon 100% up to 50K",
-			LimitPerTW: 1000,
+			LimitPerTW: 50000,
 		},
 		"BLJD10HGN": {
 			Benefit:    "Diskon 100% up to 40K",
-			LimitPerTW: 1000,
+			LimitPerTW: 50000,
 		},
 		"DUGCSRE35": {
 			Benefit:    "Diskon 100% up to 35K",
