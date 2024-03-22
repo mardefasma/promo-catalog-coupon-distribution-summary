@@ -10,7 +10,10 @@ import (
 )
 
 // Adjust query to export the csv
-// 
+// 1. adjust value redeem_create_time
+// 2. adjust value r.create_time
+// 3. adjust value c.base_code
+//
 // select c.base_code, r.claimed, r.redeem_date
 // from "catalog" c
 // join (select catalog_id,count(id) as claimed,max(create_time) as redeem_date
